@@ -22,19 +22,6 @@
   </a>
 </p>
 
-<!-- Language Selector -->
-<p align="center">
-  <a href="README.md">
-    <img src="https://img.shields.io/badge/🇺🇸_English-blue" alt="English">
-  </a>
-  <a href="README-zh.md">
-    <img src="https://img.shields.io/badge/🇨🇳_中文-red" alt="中文">
-  </a>
-  <a href="README-ja.md">
-    <img src="https://img.shields.io/badge/🇯🇵_日本語-green" alt="日本語">
-  </a>
-</p>
-
 <p align="center">
   <a href="#-快速安装">快速开始</a> •
   <a href="#-支持项目">支持项目</a> •
